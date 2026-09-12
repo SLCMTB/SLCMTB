@@ -23,4 +23,5 @@ Beyond the code, I am a huge fan of digital gaming. I also have a deep fascinati
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SLCMTB&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLCMTB&layout=compact&theme=radical)
